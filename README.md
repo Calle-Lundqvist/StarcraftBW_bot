@@ -26,3 +26,6 @@ Results from final tournament:
 Video of a game against group 2 can be found [here](https://drive.google.com/file/d/1Pi7cG4bkyYbAOJQ3EqzS0YPjx4b8pWoF/view?usp=sharing). We are the orange team.
 
 More videos and images can be found in the *Images_and_videos* folder.
+
+
+To play against our bot, follow the instructions in UAlbertaBot and run our *StarterBot_grp5_finals.exe* (found in /Bot) as the enemy.
