@@ -1,5 +1,6 @@
 # Starcraft BroodWar bot.
-Project in KTH course DD2438. We (me and Minghua Lu) were group 5. 
+Project in KTH course DD2438. We (me and Minghua Lu) were group 5. Our task was to program a bot to play Starcraft: Brood War and play a 
+tournament against the other groups in the course. We managed to win all of our games in the final. 
 
 ## Abstract from the report
 With e-sports getting popular over the years, there has been an incentive to create artificial intelligence that can beat humans, either
@@ -16,14 +17,20 @@ players.
 See more information in the project report.  
 
 ## Tournament results
-Results from pre-final tournament (we are group 5):
+Results from pre-final tournament (7 wins, 1 loss):
 ![image](Images_and_videos/result_prefinals.png)
 
 
-Results from final tournament:
+Results from final tournament (8 wins, 0 losses):
 ![image](Images_and_videos/result_finals.png)
 
-Video of a game against group 2 can be found [here](https://drive.google.com/file/d/1Pi7cG4bkyYbAOJQ3EqzS0YPjx4b8pWoF/view?usp=sharing). We are the orange team.
+The whole game against group 2 can be found [HERE](https://drive.google.com/file/d/1Pi7cG4bkyYbAOJQ3EqzS0YPjx4b8pWoF/view?usp=sharing). We are the orange team. The ending of the game can be seen here:
+![Game ending](https://github.com/Calle-Lundqvist/StarcraftBW_bot/assets/85300362/f3082592-8f83-40b8-965c-fde4597d26bc)
+
+
+Here is a video where our Stalkers takes advantage of their attack range to defeat the opponent's units:
+![Stalker micro](https://github.com/Calle-Lundqvist/StarcraftBW_bot/assets/85300362/97aad87d-ec8c-4dca-b4a7-041fdeaa59f0)
+
 
 More videos and images can be found in the *Images_and_videos* folder.
 
