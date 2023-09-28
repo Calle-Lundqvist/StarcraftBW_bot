@@ -1,5 +1,5 @@
 # Starcraft BroodWar bot.
-Project in KTH course DD2438. We (me and Minghua Lu) were group 5. Our task was to program a bot to play Starcraft: Brood War and play a 
+Project in KTH course DD2438. We (me and Minghua Lu  [minghualu](https://github.com/minghualu)) were group 5. Our task was to program a bot to play Starcraft: Brood War and play a 
 tournament against the other groups in the course. We managed to win all of our games in the final. 
 
 ## Abstract from the report
